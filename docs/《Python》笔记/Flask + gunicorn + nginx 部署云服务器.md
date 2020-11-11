@@ -1,3 +1,12 @@
+---
+title: Flask + gunicorn + nginx 部署云服务器
+date: 2020-09-10 16:58:22
+permalink: /pages/a8b3be/
+categories: 
+  - 《Python》笔记
+tags: 
+  - 
+---
 # Flask + gunicorn + nginx 部署云服务器
 
 # Flask + gunicorn + nginx 部署腾讯云服务器
