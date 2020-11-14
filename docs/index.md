@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 南北
+heroText: 冬恕
 tagline: 这里有一些我觉得有价值的东西。
 # actionText: 立刻进入 →
 # actionLink: /web/

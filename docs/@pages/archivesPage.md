@@ -4,7 +4,7 @@ title: 归档
 permalink: /archives/
 article: false
 author: 
-  name: nanbei
+  name: 冬恕
   link: https://github.com/hedongshu
 comment: false
 ---
